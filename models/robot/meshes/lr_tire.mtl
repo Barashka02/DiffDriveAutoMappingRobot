@@ -1,0 +1,13 @@
+# Blender 4.0.2 MTL File: 'None'
+# www.blender.org
+
+newmtl Tyre
+Ka 0.300000 0.300000 0.300000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Ns /home/prunov/Downloads/f1-mercedes-w13-concept/source/C:/Users/nickb/Documents/Blender/Textures/F12022/Tyre_roughness.png
+map_Bump -bm 1.000000 /home/prunov/Downloads/f1-mercedes-w13-concept/source/C:/Users/nickb/Documents/Blender/Textures/F12022/Tyre_normal.png

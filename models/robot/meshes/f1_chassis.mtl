@@ -1,0 +1,181 @@
+# Blender 4.0.2 MTL File: 'None'
+# www.blender.org
+
+newmtl BlackHole
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+
+newmtl BlackHole.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+
+newmtl Body_Main.001
+Ka 0.818182 0.818182 0.818182
+Kd 0.048675 0.071624 0.266761
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Ns /home/prunov/Downloads/f1-mercedes-w13-concept/source/C:/Users/nickb/Documents/Blender/Textures/F12022/Body_roughness.png
+map_refl /home/prunov/Downloads/f1-mercedes-w13-concept/source/C:/Users/nickb/Documents/Blender/Textures/F12022/Body_Main_metallic.png
+map_Bump -bm 1.000000 /home/prunov/Downloads/f1-mercedes-w13-concept/source/C:/Users/nickb/Documents/Blender/Textures/F12022/Body_Main_normal.png
+
+newmtl Body_Wings
+Ka 0.818182 0.818182 0.818182
+Kd 0.048675 0.071624 0.266761
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Ns -s 40 40 40 /home/prunov/Downloads/f1-mercedes-w13-concept/source/C:/Users/nickb/Documents/Blender/Textures/F12022/Body_roughness.png
+map_refl -s 40 40 40 /home/prunov/Downloads/f1-mercedes-w13-concept/source/C:/Users/nickb/Documents/Blender/Textures/F12022/Body_Wings_metallic.png
+
+newmtl Body_Wings.001
+Ka 0.818182 0.818182 0.818182
+Kd 0.048675 0.071624 0.266761
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Ns -s 40 40 40 /home/prunov/Downloads/f1-mercedes-w13-concept/source/C:/Users/nickb/Documents/Blender/Textures/F12022/Body_roughness.png
+map_refl -s 40 40 40 /home/prunov/Downloads/f1-mercedes-w13-concept/source/C:/Users/nickb/Documents/Blender/Textures/F12022/Body_Wings_metallic.png
+
+newmtl Carbon_Fiber
+Ns 250.000000
+Ka 0.854545 0.854545 0.854545
+Kd 0.095370 0.095370 0.095370
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl Carbon_Fiber
+Ns 250.000000
+Ka 0.854545 0.854545 0.854545
+Kd 0.095370 0.095370 0.095370
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl Details
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Ns /home/prunov/Downloads/f1-mercedes-w13-concept/source/C:/Users/nickb/Documents/Blender/Textures/F12022/Details_roughness.png
+map_refl /home/prunov/Downloads/f1-mercedes-w13-concept/source/C:/Users/nickb/Documents/Blender/Textures/F12022/Details_metallic.png
+map_Bump -bm 1.000000 /home/prunov/Downloads/f1-mercedes-w13-concept/source/C:/Users/nickb/Documents/Blender/Textures/F12022/Details_normal.png
+
+newmtl Details.001
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Ns /home/prunov/Downloads/f1-mercedes-w13-concept/source/C:/Users/nickb/Documents/Blender/Textures/F12022/Details_roughness.png
+map_refl /home/prunov/Downloads/f1-mercedes-w13-concept/source/C:/Users/nickb/Documents/Blender/Textures/F12022/Details_metallic.png
+map_Bump -bm 1.000000 /home/prunov/Downloads/f1-mercedes-w13-concept/source/C:/Users/nickb/Documents/Blender/Textures/F12022/Details_normal.png
+
+newmtl Glass
+Ns 940.900024
+Ka 0.600000 0.600000 0.600000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl Glass.001
+Ns 940.900024
+Ka 0.600000 0.600000 0.600000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl GlassLight
+Ns 940.900024
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 0.335710 0.335710
+Ks 0.500000 0.500000 0.500000
+Ke 1.000000 0.600000 0.600000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl GlassLight.001
+Ns 940.900024
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 0.335710 0.335710
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Mirror.001
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl Titanium
+Ns 409.223785
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl Titanium.001
+Ns 409.223785
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl Tyre
+Ka 0.300000 0.300000 0.300000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Ns /home/prunov/Downloads/f1-mercedes-w13-concept/source/C:/Users/nickb/Documents/Blender/Textures/F12022/Tyre_roughness.png
+map_Bump -bm 1.000000 /home/prunov/Downloads/f1-mercedes-w13-concept/source/C:/Users/nickb/Documents/Blender/Textures/F12022/Tyre_normal.png
